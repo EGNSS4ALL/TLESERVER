@@ -6,4 +6,4 @@
 - Run 'npm install express'
 - Run 'npm install axios'
 - Run 'npm install satellites.js'
-- To start server run 'node TLEServer.js'
+- To start server run 'node ServerTLE.js'
